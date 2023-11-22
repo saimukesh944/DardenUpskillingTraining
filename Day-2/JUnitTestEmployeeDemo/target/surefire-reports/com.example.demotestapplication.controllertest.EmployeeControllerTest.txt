@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.example.demotestapplication.controllertest.EmployeeControllerTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 2.49 s <<< FAILURE! - in com.example.demotestapplication.controllertest.EmployeeControllerTest
+employeeAddTest  Time elapsed: 0.182 s  <<< FAILURE!
+java.lang.AssertionError: Status expected:<201> but was:<200>
+	at com.example.demotestapplication.controllertest.EmployeeControllerTest.employeeAddTest(EmployeeControllerTest.java:50)
+
